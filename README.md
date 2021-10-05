@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Harshdeep
+- 👀 I’m interested in Web Devoploment
+- 🌱 I’m currently learning python
